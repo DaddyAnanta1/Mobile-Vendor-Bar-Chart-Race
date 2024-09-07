@@ -1,6 +1,6 @@
 # Mobile-Vendor-Bar-Chart-Race
 
-Sebelum mencoba code di atas, Anda harus menginstall depedensi terlebih dahulu dengan pip install -r requirements.txt
+Sebelum mencoba code di atas, Anda harus menginstall depedensi terlebih dahulu dengan **pip install -r requirements.txt**
 Kodenya Ada di bagian Code.ipynb karena saya menggunakan Jupyter Notebook
 
 Untuk bar_chart racenya sendiri saya hanya memodifikasi code yang ada di 
