@@ -8,11 +8,17 @@ Untuk bar_chart racenya sendiri saya hanya memodifikasi code yang ada di
   atau juga bisa 
 2. https://github.com/dexplo/bar_chart_race
 
-Saya memilih nomor 1 karena bukan hanya dapat menampilkan bar chart race, namun juga memasukkan logo di setiap barnya menjadi lebih baik.
+Saya memilih nomor 1 karena bukan hanya dapat menampilkan bar chart race, namun juga memasukkan logo di setiap barnya.
 
 Untuk tampilan bar chart racenya sendiri dapat dilihat sebagai berikut:
 
 ![mobile_vendor_market_share](https://github.com/user-attachments/assets/1e43b916-51d0-42f2-9840-a2ac29d2e953)
+
+Mungkin contoh di atas tidak terlalu terlihat dikarenakan framenya terbatas bila menggunakan .gif
+Berikut hasil yang telah diperbaiki dengan .mp4 yang telah saya upload di Youtube
+
+link : https://youtu.be/_KZ_sMO6R7g
+
 
 
 Resource :
